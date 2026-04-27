@@ -22,9 +22,8 @@
 -7.Visualization best practice
 -8. Testing and Validation
 -9. Deployment & Iteration
+-10. Optional Advanced Features
 ## Dashboard
-<img width="1366" height="768" alt="project dashboard" src="https://github.com/user-attachments/assets/ae9bd1eb-7036-4888-9ed3-c71e4a344ee2" />
-9. Deployment & Iteration
-10. Optional Advanced Features
+<img width="1366" height="768" alt="project dashboard" src="https://github.com/user-attachments/assets/1e94d870-c436-4ef1-bb40-f6b5017467c4"/>
 ## Dashboard
 5.
