@@ -26,10 +26,10 @@
 ## Dashboard
 <img width="1366" height="768" alt="project dashboard" src="https://github.com/user-attachments/assets/1e94d870-c436-4ef1-bb40-f6b5017467c4"/>
 ## People Insight
-- 1.Who is investing?
-- 2.How do they act?
-- 3.what are they biases?
-- 4.What is their risk style?
+- Who is investing?
+- How do they act?
+- what are they biases?
+- What is their risk style?
 ## Conclusion
 The investment Behaviour Analysis Dashboard successfully bridges the gap between raw financial data and human psychology . By analyze 'People Insights ' , the Project demonstrates that market movements are often driven by emotional triggers rather than just numbers.
 
